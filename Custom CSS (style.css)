@@ -1,0 +1,20 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.carousel-caption h5 {
+  font-size: 2rem;
+}
+
+footer, .bg-light {
+  background-color: #f8f9fa !important;
+}
+
+h2, h4 {
+  font-weight: bold;
+}
